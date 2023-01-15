@@ -1,0 +1,72 @@
+.nav-1:hover {
+    background-color:rgb(200, 208, 214);
+}
+
+.nav-2:hover {
+    background-color:rgb(200, 208, 214);
+}
+
+.nav-3:hover {
+    background-color:rgb(200, 208, 214);
+}
+
+.dark-theme  {
+    color: #ffffff;
+    background-color: #141414;
+}
+
+.dark-theme .page-header {
+    background-color: #2b2a2a; 
+}
+
+.dark-theme .theme-button {
+    background-color:blueviolet;
+    color: #ffffff;
+}
+
+.dark-theme .theme-button:hover {
+    opacity: 80%;
+}
+
+.dark-theme .theme-button:active {
+    background-color: darkorchid;
+}
+
+.dark-theme .nav-1 {
+    background-color: lightslategray;
+    color: #ffffff;
+}
+
+.dark-theme .nav-2 {
+    background-color: lightslategray;
+    color: #ffffff;
+}
+
+.dark-theme .nav-3 {
+    background-color: lightslategray;
+    color: #ffffff;
+}
+
+.dark-theme .nav-1:hover {
+    background-color: rgb(100, 141, 182);
+}
+
+.dark-theme .nav-2:hover {
+    background-color: rgb(100, 141, 182);
+}
+
+.dark-theme .nav-3:hover {
+    background-color: rgb(100, 141, 182);
+}
+
+.dark-theme .nav-1:active {
+    opacity: 60%;
+}
+
+.dark-theme .nav-2:active {
+    opacity: 60%;
+}
+
+.dark-theme .nav-3:active {
+    opacity: 60%;
+}
