@@ -32,6 +32,19 @@
     background-color: darkorchid;
 }
 
+.dark-theme .lang-button {
+    background-color:blueviolet;
+    color: #ffffff;
+}
+
+.dark-theme .lang-button:hover {
+    opacity: 80%;
+}
+
+.dark-theme .lang-button:active {
+    background-color: darkorchid;
+}
+
 .dark-theme .nav-1 {
     background-color: lightslategray;
     color: #ffffff;
